@@ -1,4 +1,4 @@
-// hell world
+// hello world
 const basePath = process.cwd();
 const { startCreating, buildSetup } = require(`${basePath}/src/main.js`);
 
