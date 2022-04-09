@@ -1,0 +1,8 @@
+{
+  "response": "OK",
+  "chain": "rinkeby",
+  "transaction_hash": "0x600ead5fca508462d60db60644f08f2c94fafe56fa17d14f050a256b62b7d22e",
+  "transaction_external_url": "https://rinkeby.etherscan.io/tx/0x600ead5fca508462d60db60644f08f2c94fafe56fa17d14f050a256b62b7d22e",
+  "owner_address": "0xf79f2FA54aBD9681e9158E556B7450BDDB74fc02",
+  "name": "cbirdz.xyz"
+}
