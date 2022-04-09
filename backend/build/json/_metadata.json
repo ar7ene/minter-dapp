@@ -1,8 +1,48 @@
 [
   {
+    "name": "YOUR COLLECTION NAME #0",
+    "description": "Remember to replace this description",
+    "image": "https://ipfs.io/ipfs/bafkreidgijhylt2scpiv2bobwswa4wlixzlcso4fn436wockp4u7nycdhy",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "dna": "e839942f5702cb54fde363308fb484e26e02e641",
+    "edition": 0,
+    "external_url": "https://codecats.xyz",
+    "date": 1649532287504,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
     "name": "YOUR COLLECTION NAME #1",
     "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/1.png",
+    "image": "https://ipfs.io/ipfs/bafkreifvjav5xma2sllxfrjlx2akv66iekgavsu65bfwzfb2s6kjerqe5a",
     "attributes": [
       {
         "trait_type": "Background",
@@ -42,7 +82,7 @@
   {
     "name": "YOUR COLLECTION NAME #3",
     "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/3.png",
+    "image": "https://ipfs.io/ipfs/bafkreie3i2xqozbdmrwmu5c3xgvvtyb2lk5icrqnfeozthfkzfmux5fnoi",
     "attributes": [
       {
         "trait_type": "Background",
@@ -80,49 +120,9 @@
     "compiler": "HashLips Art Engine - codeSTACKr Modified"
   },
   {
-    "name": "YOUR COLLECTION NAME #0",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/0.png",
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Orange"
-      },
-      {
-        "trait_type": "Eyeball",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Eye color",
-        "value": "Purple"
-      },
-      {
-        "trait_type": "Iris",
-        "value": "Small"
-      },
-      {
-        "trait_type": "Shine",
-        "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "Low"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "Low"
-      }
-    ],
-    "dna": "e839942f5702cb54fde363308fb484e26e02e641",
-    "edition": 0,
-    "external_url": "https://codecats.xyz",
-    "date": 1649532287504,
-    "compiler": "HashLips Art Engine - codeSTACKr Modified"
-  },
-  {
     "name": "YOUR COLLECTION NAME #4",
     "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/4.png",
+    "image": "https://ipfs.io/ipfs/bafkreidpooe2ata6scro7vlh5kvm6ft7q4slbsnvugv2js35gazcbcxfpi",
     "attributes": [
       {
         "trait_type": "Background",
@@ -162,7 +162,7 @@
   {
     "name": "YOUR COLLECTION NAME #5",
     "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/5.png",
+    "image": "https://ipfs.io/ipfs/bafkreidp4l2guz7ei3jrjyjvx5me6y2b4e46p3bnz3ceqy4cwfy6qjrboy",
     "attributes": [
       {
         "trait_type": "Background",

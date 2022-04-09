@@ -1,7 +1,7 @@
 {
   "name": "YOUR COLLECTION NAME #3",
   "description": "Remember to replace this description",
-  "image": "ipfs://NewUriToReplace/3.png",
+  "image": "https://ipfs.io/ipfs/bafkreie3i2xqozbdmrwmu5c3xgvvtyb2lk5icrqnfeozthfkzfmux5fnoi",
   "attributes": [
     {
       "trait_type": "Background",
