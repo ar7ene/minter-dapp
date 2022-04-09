@@ -1,0 +1,15 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreicbd3kc3ohmu5abdtcis53phpccmjufsmxu73sapw6mbaynmwkx6e",
+  "name": "CRYPTOPUNKS",
+  "description": "Which bird will you get?",
+  "file_url": "https://ipfs.io/ipfs/bafkreiakb66fqmzqk3e3qleddpznn7vfvl4dl5txmbfxawz2w2sqao4g2i",
+  "external_url": "https://cbirdz.xyz",
+  "animation_url": null,
+  "custom_fields": {
+    "date": 1647039293429,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "attributes": null,
+  "error": null
+}
